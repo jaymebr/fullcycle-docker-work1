@@ -10,12 +10,12 @@ Para executar o container execute no terminal:  docker run --rm jaymebr/fullcycl
 
 # Resultado esperado:
 
-vai imprimir na tela Full Cycle Rocks !!! e remover o container da lista de execução.
+Será exibido na tela a mensagem  "Full Cycle Rocks !!!" e na sequencia será removido o container da lista de execução.
 
 
 # Link
 
-[Link do DockerHub](https://hub.docker.com/repository/docker/jaymebr/fullcycle/general)
+[Link no DockerHub](https://hub.docker.com/repository/docker/jaymebr/fullcycle/general)
 
 
 
